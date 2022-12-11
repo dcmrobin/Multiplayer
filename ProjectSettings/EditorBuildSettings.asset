@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Example/Scenes/SampleScene.unity
+    guid: d1c3109bdb54ad54c8a2b2838528e640
+  - enabled: 0
+    path: Assets/MultiPlayer Demo/MLAPI Demo/Scenes/Main.unity
+    guid: 5a969422f6a5aae438d0a52c8c023325
+  - enabled: 0
+    path: Assets/Holes_io_replica/Scenes/Holes.unity
+    guid: 6c4461e0b33646c4bb4a84248e26ad98
+  - enabled: 0
+    path: Assets/Plugins/Mirror/Examples/Chat/Scenes/Main.unity
+    guid: f4e8d4de4484e44bba666f2d1f66c73e
+  - enabled: 0
+    path: Assets/Plugins/Mirror/Examples/Tanks/Scenes/Scene.unity
+    guid: 83f9d2fb76f5742448c6e51f258327a2
+  m_configObjects: {}
